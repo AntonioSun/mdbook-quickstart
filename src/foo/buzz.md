@@ -1,3 +1,3 @@
 # Buzz
 
-![The Rust Logo](images/rust-logo-blk.svg)
+![The Rust Logo](../images/rust-logo-blk.svg)
