@@ -1,11 +1,15 @@
 # Summary
 
+[前言](preface.md)
+
 - [mdBook Quickstart](README.md)
 
 # User Guide
 
 - [Chapter 1](chapter-1.md)
 - [Chapter 2](chapter-2.md)
+
+------
 
 # Reference Guide
 
